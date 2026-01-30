@@ -1,2 +1,2 @@
 # Competitive-programming
-CodeForces, Leetcode, Beecrowd and other answers.
+CodeForces, Leetcode, Beecrowd answers
