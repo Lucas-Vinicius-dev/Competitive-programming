@@ -1,2 +1,2 @@
 # Competitive-programming
-CodeForces, Leetcode, Beecrowd answers
+CodeForces, Leetcode and Beecrowd answers in C++ with runtime and memory performance.
