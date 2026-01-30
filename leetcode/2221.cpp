@@ -1,3 +1,5 @@
+#include "std_includes.h"
+
 class Solution {
 public:
     int triangularSum(vector<int>& nums) {
@@ -11,3 +13,9 @@ public:
         return nums[0];
     }
 };
+
+/* Average Performance
+    Runtime: 56ms | Beats 66.67%
+    Memory: 22.41MB | Beats 54.83%
+*/
+
