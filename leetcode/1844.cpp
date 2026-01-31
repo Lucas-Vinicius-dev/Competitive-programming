@@ -1,3 +1,5 @@
+#include "std_includes.h"
+
 class Solution {
 public:
     string replaceDigits(string s) {
