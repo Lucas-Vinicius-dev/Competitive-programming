@@ -1,5 +1,4 @@
-#ifndef STD_IMPORTS_H
-#define STD_IMPORTS_H
+#pragma once
 
 #include <iostream>
 #include <vector>
@@ -13,5 +12,3 @@
 #include <numeric>
 
 using namespace std;
-
-#endif
